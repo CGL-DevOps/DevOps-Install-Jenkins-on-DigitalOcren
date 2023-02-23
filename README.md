@@ -94,4 +94,4 @@ cat /var/jenkins_home/secrets/initialAdminPassword
 68.183.224.228:8080
 ```
 
-![image](image/Screenshot%202023-02-23%20at%203.59.07%20pm.png?raw=true)
+![image](image/Screenshot%202023-02-23%20at%206.06.10%20pm.png?raw=true)
